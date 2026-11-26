@@ -1,0 +1,6 @@
+[project]
+name = "tiny-nn"
+version = "0.1"
+
+[tool.setuptools.packages.find]
+where = ["src"]
